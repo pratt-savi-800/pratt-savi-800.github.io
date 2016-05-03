@@ -6,16 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: DUE-Parsons
+title: Pratt SAVI 800
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  This website displays student projects from the Design and Urban Ecologies
-  Methods 3 class – Fall 2015.
+  This website displays student projects from Pratt SAVI's SAVI-800,
+  Advanced Interactive Web Mapping
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "http://due-parsons.github.io/methods3-fall2015/" # the base hostname & protocol for your site
-url: "http://due-parsons.github.io/" # the base hostname & protocol for your site
-twitter_username:
-github_username:  DUE-Parsons
+url: "http://pratt-savi-800.github.io/" # the base hostname & protocol for your site
+twitter_username: PrattSAVI
+github_username: pratt-savi-800
 
 # Build settings
 markdown: kramdown
