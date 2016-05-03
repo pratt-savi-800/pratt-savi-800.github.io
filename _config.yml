@@ -11,8 +11,8 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   This website displays student projects from Pratt SAVI's SAVI-800,
   Advanced Interactive Web Mapping
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://pratt-savi-800.github.io/" # the base hostname & protocol for your site
+baseurl: /
+url: http://pratt-savi-800.github.io/
 twitter_username: PrattSAVI
 github_username: pratt-savi-800
 
